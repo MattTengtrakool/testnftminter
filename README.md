@@ -1,2 +1,0 @@
-# testnftminter
-Testing minting nft
